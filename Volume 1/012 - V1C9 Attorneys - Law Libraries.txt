@@ -1,0 +1,718 @@
+Chapter 9 — Attorneys; Law Libraries
+ 
+2011 EDITION
+ 
+ATTORNEYS; LAW LIBRARIES
+ 
+COURTS OF RECORD; COURT OFFICERS; JURIES
+ 
+OREGON STATE BAR
+ 
+9.005         Definitions for ORS 9.005 to 9.755
+ 
+9.010         Status of attorney and Oregon State Bar; applicability of statutes
+ 
+9.025         Board of governors; number; eligibility; term; effect of membership
+ 
+9.030         Voting rights; eligibility of members for board of governors and house of delegates
+ 
+9.040         Election of governors; rules; vacancies
+ 
+9.042         Determination of eligibility of candidate for board of governors; procedure; review by Supreme Court
+ 
+9.050         Recall of governors
+ 
+9.060         Officers; election; vacancies
+ 
+9.070         Duties of officers; deposit and disbursement of fees
+ 
+9.080         Duties of board of governors; professional liability fund; quorum; status of employees of bar
+ 
+9.090         Appropriation and disbursement of funds
+ 
+9.100         Statement of financial condition
+ 
+9.110         Board of governors to formulate rules
+ 
+9.112         Board of governors to establish minimum continuing legal education requirements
+ 
+9.114         Mandatory training on duties relating to reporting child abuse
+ 
+HOUSE OF DELEGATES
+ 
+9.136         House of delegates created; membership; terms
+ 
+9.139         Powers of house of delegates
+ 
+9.142         Rules for conduct of business; meetings
+ 
+9.145         Public members
+ 
+9.148         Participation by nondelegates; referral of question for mail vote; petition for consideration or mail vote
+ 
+9.150         Termination of delegate’s term
+ 
+9.152         Election of delegates; rules
+ 
+9.155         Recall of delegate
+ 
+PRACTICE OF LAW; MEMBERSHIP IN THE BAR
+ 
+9.160         Bar membership required to practice law; exceptions
+ 
+9.162         Definitions for ORS 9.160 to 9.166
+ 
+9.164         Investigation of alleged violation of ORS 9.160
+ 
+9.166         Enjoining practicing law without a license; restitution to victim
+ 
+9.180         Classes of membership
+ 
+9.191         Annual membership fees; professional liability assessments
+ 
+9.200         Effect of failure to pay membership fees; reinstatement
+ 
+9.210         Board of bar examiners; fees of applicants for admission to bar
+ 
+9.220         General requirements for admission
+ 
+9.241         Practice of law by attorneys licensed in other jurisdictions; rules; fee
+ 
+9.242         Advice on law of foreign jurisdiction; rules
+ 
+9.250         Order for admission; oath of qualified applicant
+ 
+9.261         Resignation of attorney
+ 
+9.280         Prohibition on acting as immigration consultant; definitions; exception
+ 
+ATTORNEY AND CLIENT RELATIONSHIP
+ 
+9.310         Attorney defined; counsel
+ 
+9.320         Necessity for employment of attorney; effect of employment
+ 
+9.330         Authority of attorney
+ 
+9.340         Challenge by party of attorney’s authority to appear for party
+ 
+9.350         Challenge of attorney’s authority to appear for adverse party
+ 
+9.360         Compelling delivery by attorney of money or papers
+ 
+9.370         Compelling delivery when attorney claims lien
+ 
+9.380         Changing attorneys and terminating attorney-client relationship
+ 
+9.390         Notice of change or termination
+ 
+PROFESSIONAL CONDUCT
+ 
+9.460         Duties of attorneys
+ 
+9.490         Formulation of rules of professional conduct; prohibition on certain sanctions for violation of rule
+ 
+PROHIBITED CONDUCT
+ 
+9.500         Solicitation of personal injury business by nonlawyer
+ 
+9.505         Payment for referring claims resulting from personal injury or death
+ 
+9.510         Solicitation by attorneys
+ 
+9.515         Referral of claims, suits or actions between attorneys; division of fees
+ 
+9.520         Acceptance and prosecution of solicited claims
+ 
+BAR DISCIPLINARY PROCEEDINGS
+ 
+9.527         Grounds for disbarment, suspension or reprimand
+ 
+9.528         Advice on conducting covert operations; participation in covert operations
+ 
+9.529         Status of proceedings relating to discipline, admission or reinstatement
+ 
+9.532         Local professional responsibility committees; state professional responsibility board; powers; witnesses, subpoenas; oaths
+ 
+9.534         Disciplinary board; procedure before board; oaths; subpoenas; hearing; record
+ 
+9.536         Disciplinary board decision; appeal to Supreme Court; review; costs
+ 
+9.537         Civil immunity of witnesses, bar officials and employees
+ 
+9.539         Application to admission and reinstatement proceedings
+ 
+9.542         Rules for investigation of attorneys and applicants; authority of board of governors to require fingerprints
+ 
+9.555         Copy of complaint or notice to Attorney General when bar is plaintiff or defendant; exceptions
+ 
+9.565         Tax return information from Department of Revenue; use
+ 
+ATTORNEY ASSISTANCE
+ 
+9.568         State lawyers assistance committee; personal and practice management assistance committees; rules; confidentiality; civil immunity
+ 
+LEGAL SERVICES PROGRAM
+ 
+9.572         Bar to establish Legal Services Program; director; advisory and technical committees
+ 
+9.576         Review of providers; mediation; hearing; suspension of funding
+ 
+9.577         Legal Aid Account
+ 
+9.578         Other funding sources
+ 
+CLIENT SECURITY FUND
+ 
+9.615         Definition for ORS 9.615 to 9.665
+ 
+9.625         Plan to relieve client losses; rules
+ 
+9.635         Sources of client security fund
+ 
+9.645         Annual payment by state bar members
+ 
+9.655         Investigation of claim of loss; subpoena
+ 
+9.657         Immunity from civil liability
+ 
+9.665         Authority for reimbursement of client; waiver of conditions; subrogation for amount paid
+ 
+LAWYER TRUST ACCOUNTS
+ 
+9.675         Mandatory certification and disclosures for lawyer trust accounts
+ 
+9.685         Trust account overdraft notification program
+ 
+SEARCH OR SEIZURE OF LAWYER FILES OR PREMISES
+ 
+9.695         Status of files or work premises of lawyer; inadmissibility of evidence subject to search or seizure
+ 
+ASSUMING PRACTICE OF NONPERFORMING ATTORNEY
+ 
+9.705         Definitions for ORS 9.705 to 9.755
+ 
+9.710         Jurisdiction of circuit court when attorney fails to devote adequate attention to practice or to interests of clients
+ 
+9.715         Effect of failure to respond to inquiry from bar
+ 
+9.720         Court assuming law practice; hearing
+ 
+9.722         Temporary protective order
+ 
+9.725         Appointment of custodians of law practice; duties of custodian and court
+ 
+9.730         Restriction of custodian’s practice
+ 
+9.735         Compensation of custodian
+ 
+9.740         Court orders appealable; stay
+ 
+9.745         Statutes of limitation suspended
+ 
+9.750         Applicability of lawyer-client privilege to examination of files and records
+ 
+9.755         Final report of custodian; petition for compensation; court approval
+ 
+LAW LIBRARIES
+ 
+9.760         Judicial department library services; fees
+ 
+9.780         Exchange of legal publications
+ 
+9.790         Legislative Counsel furnishing copies of codes and session laws for exchange
+ 
+9.800         Sale of surplus codes and session laws
+ 
+9.815         County law libraries and law library services
+ 
+9.820         Law libraries in Multnomah County
+ 
+9.825         Law library surveys; reports
+ 
+PENALTIES
+ 
+9.990         Penalties
+ 
+OREGON STATE BAR
+ 
+      9.005 Definitions for ORS 9.005 to 9.755. As used in ORS 9.005 to 9.755, unless the context or subject matter requires otherwise:
+      (1) “Attorney” and “member” mean a member of the bar.
+      (2) “Board” and “board of governors” mean the board of governors of the bar.
+      (3) “Delegate” means a delegate of the house of delegates of the Oregon State Bar.
+      (4) “Executive director” means the chief administrative employee of the bar, appointed by the board. The executive director may, but need not be, a member of the bar; and the executive director shall serve at the board’s discretion and shall perform such duties as the board shall prescribe.
+      (5) “Governor” means a member of the board of governors of the bar.
+      (6) “House” and “house of delegates” mean the house of delegates of the Oregon State Bar.
+      (7) “Oregon State Bar,” “state bar” and “bar” mean the Oregon State Bar created by the State Bar Act set forth in ORS 9.005 to 9.755.
+      (8) “Rules of procedure” means the rules of procedure relative to admission, discipline, resignation and reinstatement of members of the bar adopted by the board and approved by the Supreme Court. [1975 c.641 §2; 1979 c.252 §14; 1995 c.302 §15; 1997 c.249 §5]
+ 
+      9.010 Status of attorney and Oregon State Bar; applicability of statutes. (1) An attorney, admitted to practice in this state, is an officer of the court.
+      (2) The Oregon State Bar is a public corporation and an instrumentality of the Judicial Department of the government of the State of Oregon. The bar is authorized to carry out the provisions of ORS 9.005 to 9.755.
+      (3) The bar is subject to the following statutes applicable to public bodies:
+      (a) ORS 30.210 to 30.250.
+      (b) ORS 30.260 to 30.300.
+      (c) ORS 30.310, 30.312, 30.390 and 30.400.
+      (d) The Oregon Rules of Civil Procedure.
+      (e) ORS 192.410 to 192.505.
+      (f) ORS 192.610 to 192.690.
+      (g) ORS 243.401 to 243.507.
+      (h) ORS 244.010 to 244.040.
+      (i) ORS 297.110 to 297.230.
+      (j) ORS chapters 307, 308 and 311.
+      (k) ORS 731.036 and 737.600.
+      (4) Except as provided in subsection (3) of this section, the bar is not subject to any statute applicable to a state agency, department, board or commission or public body unless the statute expressly provides that it is applicable to the Oregon State Bar.
+      (5) The Oregon State Bar has perpetual succession and a seal, and may sue and be sued. Notwithstanding the provisions of ORS 270.020 and 279.835 to 279.855 and ORS chapters 278, 279A, 279B and 279C, the bar may, in its own name, for the purpose of carrying into effect and promoting its objectives, enter into contracts and lease, acquire, hold, own, encumber, insure, sell, replace, deal in and with and dispose of real and personal property.
+      (6) No obligation of any kind incurred or created under this section shall be, or be considered, an indebtedness or obligation of the State of Oregon. [Amended by 1955 c.463 §1; 1965 c.461 §1; 1985 c.446 §1; 1997 c.249 §6; 2003 c.794 §194; 2007 c.60 §1]
+ 
+      9.020 [Amended by 1971 c.103 §1; repealed by 1973 c.114 §5]
+ 
+      9.025 Board of governors; number; eligibility; term; effect of membership. (1) The Oregon State Bar shall be governed by a board of governors consisting of 18 members. Fourteen of the members shall be active members of the Oregon State Bar, who at the time of appointment, at the time of filing a statement of candidacy, at the time of election, and during the full term for which the member was appointed or elected, maintain the principal office of law practice in the region of this state in which the active members of the Oregon State Bar eligible to vote in the election at which the member was elected maintain their principal offices. Four of the members shall be appointed by the board of governors from among the public. They shall be residents of this state and may not be active or inactive members of the Oregon State Bar. A person charged with official duties under the executive and legislative departments of state government, including but not limited to elected officers of state government, may not serve on the board of governors. Any other person in the executive or legislative department of state government who is otherwise qualified may serve on the board of governors.
+      (2) The board of governors shall divide the State of Oregon into regions for the purpose of determining eligibility to be a candidate for the board of governors, eligibility to be elected or appointed to the board of governors, and eligibility to vote in board of governors elections. The regions shall be based on the number of attorneys who have their principal offices in the region. To the extent that it is reasonably possible, the regions shall be configured by the board so that the representation of board members to attorney population in each region is equal to the representation provided in other regions. At least once every 10 years the board shall review the number of attorneys in the regions and shall alter or add regions as the board determines is appropriate in seeking to attain the goal of equal representation.
+      (3) Members of the board of governors may be elected only by the active members of the Oregon State Bar who maintain their principal offices in the regions established by the board. The regular term of a member of the board is four years. The board may establish special terms for positions that are shorter than four years for the purpose of staggering the terms of members of the board. The board must identify a position with a special term before accepting statements of candidacy for the region in which the position is located. The board shall establish rules for determining which of the elected members for a region is assigned to the position with a special term.
+      (4) No judge of a municipal, state or federal court or any other full-time judicial officer, shall be eligible for appointment or election to the board of governors.
+      (5) The term of any member of the board of governors shall terminate on the date of the death or resignation of the member, or if the member of the board is required to be a member of the Oregon State Bar, the term terminates on the date:
+      (a) Of the termination of active membership in the Oregon State Bar for any reason;
+      (b) When the member discontinues to maintain the principal office of law practice in the region in which it was maintained at the time of the appointment or election of the member; or
+      (c) When the member assumes office as a judge of a municipal, state or federal court, or fills a full-time judicial office.
+      (6) No member of the board of governors shall be eligible, during the term of office, for service pro tempore as a judge of any municipal, state or federal court. [1973 c.114 §1; 1981 c.193 §3; 1993 c.307 §1; 1995 c.302 §1; 2009 c.218 §1; 2011 c.303 §1]
+ 
+      9.030 Voting rights; eligibility of members for board of governors and house of delegates. (1) An active member of the Oregon State Bar shall vote for members of the board of governors and house of delegates representing the region in which the bar member maintains the member’s principal office.
+      (2) An active member of the Oregon State Bar is eligible to be a candidate for, and to be appointed or elected to, the board of governors or house of delegates to represent the region in which the bar member maintains the member’s principal office. [Amended by 1971 c.103 §2; 1973 c.114 §2; 1995 c.302 §16; 2011 c.303 §2]
+ 
+      9.040 Election of governors; rules; vacancies. (1) The election of governors shall be held annually on a date set by the board of governors. The election shall be by ballot. Any member of the Oregon State Bar who is eligible to serve as a governor for a region may file a signed statement of candidacy for the region. Statements of candidacy must be filed with the executive director of the bar. The board shall establish a deadline for filing statements of candidacy.
+      (2)(a) The executive director shall mail ballots containing the names of the candidates for the office of governor in each region to every active member in the region. Ballots may be delivered in person or by mail to the executive director, but must be received by the executive director on or before the day of the election. The executive director shall canvass the votes and record the results of the election.
+      (b) The board by rule may provide for electronic elections in lieu of using mailed ballots under paragraph (a) of this subsection. Rules adopted under this paragraph may provide for electronic distribution of election materials and electronic tabulation of votes.
+      (3) In a region in which only one position is to be filled, the candidate receiving the highest vote shall be declared elected. If a region has more than one position to be filled, the candidate with the most votes received shall be declared elected, the candidate with the next highest number of votes received shall then be declared elected, and so on until all positions are filled. The balloting shall be conducted so that only eligible active members can vote, and the secrecy of the ballot shall be preserved.
+      (4) Notwithstanding subsection (1) of this section, the board may not conduct an election for a region if the number of candidates for the region is equal to or less than the number of open positions for the region. If the number of candidates for the region is equal to or less than the number of open positions for the region, the board shall declare the candidate or candidates elected on a date specified by the board.
+      (5) A vacancy in the office of elective member of the board of governors that occurs more than 24 months before the expiration of the term shall be filled for the remainder of the term by a governor elected at a special election held in the manner provided in this section as soon as possible after the occurrence of the vacancy, or as provided in subsection (4) of this section if there is only one candidate. The vacancy may be filled for the period between the occurrence of the vacancy and the election of a new governor by a person appointed by the board. A vacancy in the office of elective member that occurs 24 months or less before the expiration of the term shall be filled for the remainder of the term by a person appointed by the board.
+      (6) A vacancy in the office of public member of the board of governors shall be filled for the remainder of the term by a governor appointed by the board. [Amended by 1973 c.114 §3; 1979 c.252 §15; 1985 c.512 §1; 1995 c.302 §2; 2001 c.297 §1; 2003 c.192 §1; 2005 c.347 §1; 2011 c.303 §3]
+ 
+      9.042 Determination of eligibility of candidate for board of governors; procedure; review by Supreme Court. (1) Upon the written request of any member of the bar, or upon the board’s own motion, the board of governors shall determine the eligibility of a candidate for the board. A request under this section must be filed with the executive director within 30 days after the final day on which statements of candidacy are required to be filed. The board shall give written notice of the request to the candidate whose eligibility will be determined. The board shall provide an opportunity to the candidate to respond on the issue of the candidate’s eligibility.
+      (2) The board shall give written notice to the candidate, and to any member of the bar who has requested a determination on the eligibility of the candidate under the provisions of this section, of the board’s determination on the candidate’s eligibility. The notice must be given not later than 75 days after the final day on which statements of candidacy are required to be filed. The notice shall state the specific grounds for the board’s determination.
+      (3) A candidate, or a member of the bar who has requested a determination on the eligibility of a candidate under the provisions of this section, may file a petition for review of the board’s determination with the Supreme Court. The petition for review must be filed within 15 days only after notice is given to a candidate or member under subsection (2) of this section.
+      (4) Upon the timely filing of a petition for review under subsection (3) of this section, the Supreme Court has jurisdiction to resolve all issues arising under the Oregon Constitution, state statutes, rules of the court and rules of the board that are related to the eligibility of candidates for the board.
+      (5) The board of governors shall establish procedures for the implementation of subsections (1) and (2) of this section. The procedures shall be designed to ensure that there will be a final determination on the eligibility of a candidate for the board no later than 10 days before the mailing of the ballots to members of the bar in the election that is affected by the determination.
+      (6) This section provides the exclusive procedure for challenging the eligibility of a candidate for the board. No other administrative or judicial proceeding may be brought to challenge the eligibility of a candidate for the board. [1993 c.307 §3; 2011 c.303 §4]
+ 
+      9.050 Recall of governors. (1) On petition signed by 25 percent of the members in any region for the recall of any governor elected from that region, the executive director shall serve notice as soon as possible on the governor informing the governor that the petition has been filed. If the governor does not resign within 10 days after the date the notice is served, the executive director shall mail ballots to each active member of the bar within the region eligible to vote, submitting the question whether the governor shall be recalled. If a majority of the members voting at the election vote in favor of the recall, the governor is recalled.
+      (2) On the affirmative vote of two-thirds of the entire membership of the board of governors, the board shall refer the question of the recall of any governor from any region to a vote of the members of that region. The executive director shall serve notice as soon as possible on the governor informing the governor that the board has approved a recall election. If the governor does not resign within 10 days after the notice is served, the executive director shall mail ballots to each active member of the bar within the region eligible to vote, submitting the question whether the governor shall be recalled. If a majority of the members voting at the election vote in favor of the recall, the governor is recalled.
+      (3) The board of governors shall approve the ballot and any information submitted to the members in connection with a recall vote. [Amended by 1973 c.114 §4; 1979 c.252 §16; 2003 c.14 §8; 2005 c.347 §2]
+ 
+      9.060 Officers; election; vacancies. A president, president-elect and two vice presidents shall be elected by the governors each year immediately following the annual election of governors and before the newly elected governors have qualified. The president, president-elect and vice presidents shall be elected from among the attorney board members. All officers shall continue in office until their successors are elected and qualify. Vacancies in any of the offices shall be filled by the board by appointment for the remainder of the term. All officers shall take office as provided by the bar bylaws. [Amended by 1985 c.512 §2; 1991 c.726 §1; 1995 c.302 §3]
+ 
+      9.070 Duties of officers; deposit and disbursement of fees. (1) The president shall preside at all meetings of the house of delegates and of the board of governors, and in the president’s absence or inability to act, the president shall designate another officer to preside. Other duties of the president, president-elect and vice presidents shall be such as the board of governors may prescribe.
+      (2) All fees shall be paid into the treasury of the state bar, and when so paid shall become part of its funds and shall be disbursed only on order of the board of governors. [Amended by 1981 c.193 §4; 1991 c.331 §1; 1995 c.302 §4]
+ 
+      9.080 Duties of board of governors; professional liability fund; quorum; status of employees of bar. (1) The state bar shall be governed by the board of governors, except as provided in ORS 9.136 to 9.155. The board is charged with the executive functions of the state bar and shall at all times direct its power to the advancement of the science of jurisprudence and the improvement of the administration of justice. It shall have the authority to adopt, alter, amend and repeal bylaws and to adopt new bylaws containing provisions for the regulation and management of the affairs of the state bar not inconsistent with law.
+      (2)(a) The board shall have the authority to require all active members of the state bar engaged in the private practice of law whose principal offices are in Oregon to carry professional liability insurance and shall be empowered, either by itself or in conjunction with other bar organizations, to do whatever is necessary and convenient to implement this provision, including the authority to own, organize and sponsor any insurance organization authorized under the laws of the State of Oregon and to establish a lawyer’s professional liability fund. This fund shall pay, on behalf of active members of the state bar engaged in the private practice of law whose principal offices are in Oregon, all sums as may be provided under such plan which any such member shall become legally obligated to pay as money damages because of any claim made against such member as a result of any act or omission of such member in rendering or failing to render professional services for others in the member’s capacity as an attorney or caused by any other person for whose acts or omissions the member is legally responsible. The board shall have the authority to assess each active member of the state bar engaged in the private practice of law whose principal office is in Oregon for contributions to such fund, to establish definitions of coverage to be provided by such fund and to retain or employ legal counsel to represent such fund and defend and control the defense against any covered claim made against such member. The board shall have the further authority to offer optional professional liability coverage on an underwritten basis above the minimum required coverage limits provided under such fund, either through such fund, through a separate fund or through any insurance organization authorized under the laws of the State of Oregon, and may do whatever is necessary and convenient to implement this provision. Any fund so established shall not be subject to the Insurance Code of the State of Oregon. Records of a claim against the fund are exempt from disclosure under ORS 192.410 to 192.505.
+      (b) For purposes of paragraph (a) of this subsection, an attorney is not engaged in the private practice of law if the attorney is a full-time employee of a corporation other than a corporation incorporated under ORS chapter 58, the state, an agency or department thereof, a county, city, special district or any other public or municipal corporation or any instrumentality thereof. However, an attorney who practices law outside of the attorney’s full-time employment is engaged in the private practice of law.
+      (c) For the purposes of paragraph (a) of this subsection, the principal office of an attorney is considered to be the location where the attorney engages in the private practice of law more than 50 percent of the time engaged in that practice. In the case of an attorney in a branch office outside Oregon and the main office to which the branch office is connected is in Oregon, the principal office of the attorney is not considered to be in Oregon unless the attorney engages in the private practice of law in Oregon more than 50 percent of the time engaged in the private practice of law.
+      (3) The board may appoint such committees, officers and employees as it deems necessary or proper and fix and pay their compensation and necessary expenses. At any meeting of the board, two-thirds of the total number of members then in office shall constitute a quorum. It shall promote and encourage voluntary county or other local bar associations.
+      (4) Except as provided in this subsection, an employee of the state bar shall not be considered an “employee” as the term is defined in the public employees’ retirement laws. However, an employee of the state bar may, at the option of the employee, for the purpose of becoming a member of the Public Employees Retirement System, be considered an “employee” as the term is defined in the public employees’ retirement laws. The option, once exercised by written notification directed to the Public Employees Retirement Board, may not be revoked subsequently, except as may otherwise be provided by law. Upon receipt of such notification by the Public Employees Retirement Board, an employee of the state bar who would otherwise, but for the exemption provided in this subsection, be considered an “employee,” as the term is defined in the public employees’ retirement laws, shall be so considered. The state bar and its employees shall be exempt from the provisions of the State Personnel Relations Law. No member of the state bar shall be considered an “employee” as the term is defined in the public employees’ retirement laws, the unemployment compensation laws and the State Personnel Relations Law solely by reason of membership in the state bar. [Amended by 1955 c.463 §2; 1975 c.641 §3; 1977 c.527 §1; 1979 c.508 §1; 1983 c.128 §2; 1985 c.486 §1; 1989 c.1052 §5; 1995 c.302 §17]
+ 
+      9.090 Appropriation and disbursement of funds. The board may make appropriations and disbursements from the funds of the bar and pay all necessary expenses. [Amended by 1969 c.314 §5; 1979 c.252 §17]
+ 
+      9.100 Statement of financial condition. The board shall have prepared annually a statement explaining the financial condition of the state bar for the 12 months preceding. Such statement shall be submitted by the executive director promptly to the Chief Justice of the Supreme Court. [Amended by 1991 c.726 §2]
+ 
+      9.110 Board of governors to formulate rules. The board of governors may formulate and declare rules for carrying out the functions of the state bar. [Amended by 1975 c.641 §4; 1981 c.193 §5; 1995 c.302 §5]
+ 
+      9.112 Board of governors to establish minimum continuing legal education requirements. The board of governors shall by rule establish minimum continuing legal education requirements for all active members of the Oregon State Bar. Rules adopted by the board of governors are subject to review by the Supreme Court. [1999 c.953 §3]
+ 
+      9.114 Mandatory training on duties relating to reporting child abuse. The Oregon State Bar shall require that attorneys complete one hour of training every three years designed to provide education on the duties of attorneys under ORS 419B.010. All training under this section shall be applied by the bar against the hours of continuing legal education required of attorneys as a condition of membership in the bar or as a condition to the practice of law in this state. Credit acquired under this section shall be applied first against any requirement of continuing legal education relating to ethics. [1999 c.953 §2]
+ 
+      9.120 [Repealed by 1995 c.302 §23]
+ 
+      9.130 [Amended by 1979 c.508 §2; 1981 c.193 §2; 1983 c.373 §1; repealed by 1995 c.302 §23]
+ 
+      9.132 [1993 c.131 §2; renumbered 9.685 in 2011]
+ 
+HOUSE OF DELEGATES
+ 
+      9.136 House of delegates created; membership; terms. (1) The house of delegates of the Oregon State Bar is created. The house consists of elected and ex officio voting delegates. All delegates must be active members of the state bar except for the public members of the board of governors and the public members appointed by the board pursuant to ORS 9.145.
+      (2) The members of the board of governors of the Oregon State Bar are ex officio voting delegates.
+      (3) The chairperson of each Oregon State Bar section is an ex officio voting delegate.
+      (4) The elected president of each county bar association is an ex officio voting delegate. Not more than one county bar association from each county may be represented by a delegate under this subsection.
+      (5) Elected delegates shall be elected from the regions established by ORS 9.025 and an additional region composed of all areas not located in this state. Only active members of the bar may vote for delegates. A member who maintains a principal office in one of the regions established by ORS 9.025 may vote for delegates from the region where the member maintains the office. A member who does not maintain a principal office in this state but who has an address on file with the bar may vote for delegates from the region composed of all areas not located in this state.
+      (6) Each region shall elect at least five delegates. If more than 550 active members maintain their principal offices in the region, the members shall elect delegates as follows:
+      (a) The members shall elect one delegate for each 100 members who maintain their principal offices in the region.
+      (b) The members shall elect one additional delegate if more than 50 members who maintain their principal offices in the region are not accounted for after the allocation provided for in paragraph (a) of this subsection.
+      (7) Elected delegates shall serve for terms of three years. A vacancy in the office of an elected delegate shall be filled for the remainder of the term by a delegate appointed by the board of governors.
+      (8) An elected delegate may not serve as a member of the board of governors, as a section chairperson or as a county bar association president during the delegate’s term.
+      (9) For the purposes of this section, “county bar association” means a general purpose bar association established by the lawyers of one or more counties for the purpose of maintaining good professional relations between members of the bench and of the bar in the county or counties, and for the purpose of improving the administration of justice in the county or counties. [1995 c.302 §7; 2001 c.297 §2]
+ 
+      9.139 Powers of house of delegates. (1) The delegates at a meeting of the house of delegates may, by a vote of the majority of the delegates attending the meeting, do either of the following:
+      (a) Modify or rescind an action or decision of the board of governors.
+      (b) Direct the board of governors as to future action.
+      (2) The board of governors is bound by a decision of the house of delegates made in the manner prescribed by subsection (1) of this section.
+      (3) The power of the house of delegates to direct, modify or rescind an action or decision of the board of governors under subsection (1) of this section does not include the power:
+      (a) To invalidate payments previously made at the direction of the board;
+      (b) To direct, modify or rescind any assessment by the board for contributions to a professional liability fund established under ORS 9.080; or
+      (c) To direct, modify or rescind any other action or decision by the board that is subject to control, approval or review by the Supreme Court.
+      (4) Subsection (3)(c) of this section does not affect the ability of the house of delegates to formulate disciplinary rules under ORS 9.490. [1995 c.302 §8]
+ 
+      9.142 Rules for conduct of business; meetings. (1) The board of governors shall formulate rules for the conduct of the business of the house of delegates. Rules adopted by the board become effective upon the adoption of the rules by the house of delegates. The president of the Oregon State Bar may call special meetings of the house. The president shall call a special meeting of the house if 25 or more delegates make a written request for a special meeting. A majority of the total number of delegates constitutes a quorum for any regular or special meeting of the house.
+      (2) The board of governors shall set a time and place for the annual meeting of the house of delegates. At the annual meeting, the board of governors shall submit to the house of delegates reports of the proceedings by the board since the last meeting of the house, reports of the officers and committees of the state bar and recommendations of the board. [1995 c.302 §9]
+ 
+      9.145 Public members. The board of governors shall appoint a public member delegate for each region established by ORS 9.025. A public member delegate shall serve a three-year term. A vacant public member delegate position shall be filled for the remainder of the term by a delegate appointed by the board of governors. The appointment of public member delegates shall be made by the board before the time set for the election of delegates under ORS 9.152. The term of a public member delegate shall commence on the same date that the term of an elected delegate commences. [1995 c.302 §10; 2001 c.297 §3]
+ 
+      9.148 Participation by nondelegates; referral of question for mail vote; petition for consideration or mail vote. (1) Active members of the Oregon State Bar may participate in the discussion of matters before the house of delegates, but only delegates may vote. The house of delegates may by rule impose restrictions on participation by members of the state bar who are not delegates.
+      (2) The board of governors or the house of delegates, acting on its own motion, may refer to the members of the bar by mail ballot any question or measure considered by the board or house to be appropriate for submission to a vote of the members. Referral may be made under this subsection at any time.
+      (3) Active members of the state bar, by written petition signed by at least two percent of all active members, may have placed on the agenda of a meeting of the house of delegates any question or measure appropriate for a vote of the house. The petition shall contain the full text of the question or measure proposed. The petition must be filed with the executive director at least 45 days before the annual or special meeting of the house specified in the petition at the meeting when the petitioners seek to have the question or measure considered.
+      (4) Active members of the state bar, by written petition signed by no fewer than five percent of all active members, may request that the board of governors submit to a vote of the members any question or measure. The board of governors shall submit the question or measure to a vote of the members of the bar if the question or measure is appropriate for a vote of the members. The initiative petition must contain the full text of the question or measure proposed. [1995 c.302 §11]
+ 
+      9.150 Termination of delegate’s term. The term of service of any delegate shall end upon the death or resignation of the delegate. If the delegate is an attorney delegate, the term of service shall end on the date that the delegate:
+      (1) Terminates the delegate’s active membership in the Oregon State Bar for any reason;
+      (2) Ceases to maintain the delegate’s principal office in the region the delegate was appointed or elected to represent;
+      (3) Takes office as a member of the board of governors, as a chairperson of a state bar section or as a county bar association president; or
+      (4) Is recalled pursuant to ORS 9.155. [1995 c.302 §12; 2001 c.297 §4]
+ 
+      9.152 Election of delegates; rules. (1) The election of delegates to the house of delegates shall be held annually on a date set by the board of governors. The election shall be by ballot. Any member of the Oregon State Bar who is eligible to serve as a member for a region may file a signed statement of candidacy for the region. Statements of candidacy must be filed with the executive director of the state bar at least 30 days before the election.
+      (2)(a) The executive director shall mail ballots containing the names of the candidates for the office of delegate in each region to every active member in the region. Ballots may be delivered in person or by mail to the executive director, but must be received by the executive director on or before the day of the election. The executive director shall canvass the votes and record the results of the election.
+      (b) The board by rule may provide for electronic elections in lieu of using mailed ballots under paragraph (a) of this subsection. Rules adopted under this paragraph may provide for electronic distribution of election materials and electronic tabulation of votes.
+      (3) In a region in which only one position is to be filled, the candidate receiving the highest vote shall be declared elected. If a region has more than one position to be filled, the candidate with the most votes received shall be declared elected, the candidate with the next highest number of votes received shall then be declared elected, and so on until all positions are filled. The balloting shall be conducted so that only eligible active members can vote, and the secrecy of the ballot shall be preserved.
+      (4) Notwithstanding subsection (1) of this section, the board may not conduct an election for a region if the number of candidates for the region is equal to or less than the number of open positions for the region. If the number of candidates for the region is equal to or less than the number of open positions for the region, the board shall declare the candidate or candidates elected on a date specified by the board. [1995 c.302 §13; 2001 c.297 §5; 2003 c.192 §2; 2011 c.303 §5]
+ 
+      9.155 Recall of delegate. Upon the filing of a petition with the Oregon State Bar signed by 25 percent of the members of the bar from a region for the recall of a delegate elected from that region, the executive director shall serve notice on the delegate of the filing of the petition. If the delegate does not resign within 15 days after the date that the notice is served, the executive director shall mail ballots to each member of the bar within the region. The ballots shall submit the question of whether the delegate should be recalled. If a majority of the members voting in the election vote in favor of the recall, the delegate is recalled and the position held by the delegate becomes vacant upon the executive director’s declaration of the results of the election. [1995 c.302 §14; 2001 c.297 §6]
+ 
+PRACTICE OF LAW; MEMBERSHIP IN THE BAR
+ 
+      9.160 Bar membership required to practice law; exceptions. (1) Except as provided in this section, a person may not practice law in this state, or represent that the person is qualified to practice law in this state, unless the person is an active member of the Oregon State Bar.
+      (2) Subsection (1) of this section does not affect the right to prosecute or defend a cause in person as provided in ORS 9.320.
+      (3) An individual licensed under ORS 696.022 acting in the scope of the individual’s license to arrange a real estate transaction, including the sale, purchase, exchange, option or lease coupled with an option to purchase, lease for a term of one year or longer or rental of real property, is not engaged in the practice of law in this state in violation of subsection (1) of this section.
+      (4) A title insurer authorized to do business in this state, a title insurance agent licensed under the laws of this state or an escrow agent licensed under the laws of this state is not engaged in the practice of law in this state in violation of subsection (1) of this section if, for the purposes of a transaction in which the insurer or agent provides title insurance or escrow services, the insurer or agent:
+      (a) Prepares any satisfaction, reconveyance, release, discharge, termination or cancellation of a lien, encumbrance or obligation;
+      (b) Acts pursuant to the instructions of the principals to the transaction as scrivener to fill in blanks in any document selected by the principals;
+      (c) Presents to the principals to the transaction for their selection any blank form prescribed by statute, rule, ordinance or other law; or
+      (d) Presents to the principals to the transaction for their selection a blank form prepared or approved by a lawyer licensed to practice law in this state for one or more of the following:
+      (A) A mortgage.
+      (B) A trust deed.
+      (C) A promissory note.
+      (D) An assignment of a mortgagee’s interest under a mortgage.
+      (E) An assignment of a beneficial interest under a trust deed.
+      (F) An assignment of a seller’s or buyer’s interest under a land sale contract.
+      (G) A power of attorney.
+      (H) A subordination agreement.
+      (I) A memorandum of an instrument that is to be recorded in place of the instrument that is the subject of the memorandum.
+      (5) In performing the services permitted in subsection (4) of this section, a title insurer, a title insurance agent or an escrow agent may not draft, select or give advice regarding any real estate document if those activities require the exercise of informed or trained discretion.
+      (6) The exemption provided by subsection (4) of this section does not apply to any acts relating to a document or form that are performed by an escrow agent under subsection (4)(b), (c) or (d) of this section unless the escrow agent provides to the principals to the transaction a notice in at least 12-point type as follows:
+______________________________________________________________________________
+ 
+      YOU WILL BE REVIEWING, APPROVING AND SIGNING IMPORTANT DOCUMENTS AT CLOSING. LEGAL CONSEQUENCES FOLLOW FROM THE SELECTION AND USE OF THESE DOCUMENTS. THESE CONSEQUENCES AFFECT YOUR RIGHTS AND OBLIGATIONS. YOU MAY CONSULT AN ATTORNEY ABOUT THESE DOCUMENTS. YOU SHOULD CONSULT AN ATTORNEY IF YOU HAVE QUESTIONS OR CONCERNS ABOUT THE TRANSACTION OR ABOUT THE DOCUMENTS. IF YOU WISH TO REVIEW TRANSACTION DOCUMENTS THAT YOU HAVE NOT YET SEEN, PLEASE CONTACT THE ESCROW AGENT.
+______________________________________________________________________________
+ 
+      (7) The exemption provided by subsection (4) of this section does not apply to any acts relating to a document or form that are performed by an escrow agent under subsection (4)(b), (c) or (d) of this section for a real estate sale and purchase transaction in which all or part of the purchase price consists of deferred payments by the buyer to the seller unless the escrow agent provides to the principals to the transaction:
+      (a) A copy of any proposed instrument of conveyance between the buyer and seller to be used in the transaction;
+      (b) A copy of any proposed deferred payment security instrument between the buyer and seller to be used in the transaction; and
+      (c) A copy of any proposed promissory note or other evidence of indebtedness between the buyer and seller to be used in the transaction.
+      (8) The notice and copies of documents that must be provided under subsections (6) and (7) of this section must be delivered in the manner most likely to ensure receipt by the principals to the transaction at least three days before completion of the transaction. If copies of documents have been provided under subsection (7) of this section and are subsequently amended, copies of the amended documents must be provided before completion of the transaction.
+      (9) Failure of any person to comply with the requirements of subsections (3) to (8) of this section does not affect the validity of any transaction and may not be used as a basis to challenge any transaction. [Amended by 2003 c.260 §1; 2007 c.319 §24; 2009 c.218 §4]
+ 
+      9.162 Definitions for ORS 9.160 to 9.166. As used in ORS 9.160 to 9.166 and 9.280, unless the context or subject matter requires otherwise:
+      (1) “Person” means a human being, a public body as defined by ORS 174.109, a public or private corporation, an unincorporated association, a partnership, a limited liability company or any other business entity created under law.
+      (2) “Restitution” means full, partial or nominal payment of pecuniary damages to a victim.
+      (3) “Victim” means any person who the court determines has suffered pecuniary damages as a result of any other person’s violation of ORS 9.160. [1987 c.860 §2; 2009 c.218 §3]
+ 
+      9.164 Investigation of alleged violation of ORS 9.160. Upon written complaint of any person or upon its own initiative, the Board of Governors of the Oregon State Bar shall investigate any alleged violation of ORS 9.160. [1987 c.860 §3]
+ 
+      9.166 Enjoining practicing law without a license; restitution to victim. If the board has reason to believe that a person is practicing law without a license, the board may maintain a suit for injunctive relief in the name of the Oregon State Bar against any person violating ORS 9.160. The court shall enjoin any person violating ORS 9.160 from practicing law without a license. Any person who has been so enjoined may be punished for contempt by the court issuing the injunction. An injunction may be issued without proof of actual damage sustained by any person. The court shall order restitution to any victim of any person violating ORS 9.160. The prevailing party may recover its costs and attorney fees in any suit for injunctive relief brought under this section in which the board is the plaintiff. [1987 c.860 §4; 2001 c.300 §57; 2003 c.260 §3; 2003 c.670 §6]
+ 
+      9.180 Classes of membership. All persons admitted to practice law in this state thereby shall become active members of the bar. Every member shall be an active member unless, at the member’s request, or for reasons prescribed by statute, the rules of the Supreme Court, or the rules of procedure, the member is enrolled as an inactive member. An inactive member may, on compliance with the rules of the Supreme Court and the rules of procedure and payment of all required fees, again become an active member. Inactive members shall not hold office or vote, but they shall have such other privileges as the board may provide. [Amended by 1961 c.499 §1; 1979 c.252 §18]
+ 
+      9.190 [Amended by 1957 c.271 §1; 1961 c.138 §1; part renumbered 9.200 (2); repealed by 1969 c.602 §1 (9.191 enacted in lieu of 9.190)]
+ 
+      9.191 Annual membership fees; professional liability assessments. (1) Except as provided in subsection (2) of this section, the annual membership fees to be paid by members of the Oregon State Bar shall be established by the Board of Governors of the Oregon State Bar, and each year notice of the proposed fees for the coming year shall be published and distributed to the membership not later than 20 days before the annual meeting of the house of delegates. Any increase in annual membership fees over the amount established for the preceding year must be approved by a majority of delegates of the house of delegates voting thereon at the annual meeting of the house of delegates. The board shall establish the date by which annual membership fees must be paid.
+      (2) The board shall establish prorated membership fees payable for the year that a member is admitted to the practice of law in this state. If the new member is admitted on or before the date established by the board for the payment of annual membership fees under subsection (1) of this section, the new member must pay the full annual membership fees established under subsection (1) of this section.
+      (3) In establishing annual membership fees, the board shall consider and be guided by the anticipated financial needs of the state bar for the year for which the fees are established, time periods of membership and active or inactive status of members. Annual membership fees may include any amount assessed under any plan for professional liability insurance for active members engaged in the private practice of law whose principal offices are in Oregon as provided in ORS 9.080 (2). The board may not require that a member who has been admitted to practice law in Oregon for 50 years or more pay membership fees, assessments or any amount under ORS 9.645, except that the member shall be required to pay any amount assessed under any plan for professional liability insurance if the member is engaged in the private practice of law and the member’s principal office is in Oregon. [1969 c.602 §2 (enacted in lieu of 9.190); 1973 c.21 §1; 1975 c.641 §5; 1977 c.527 §2; 1979 c.508 §3; 1985 c.486 §2; 1985 c.512 §3; 1995 c.302 §18; 1999 c.171 §7; 2001 c.104 §2; 2003 c.192 §3]
+ 
+      9.200 Effect of failure to pay membership fees; reinstatement. (1) Any member in default in payment of membership fees established under ORS 9.191 (1) for a period of 90 days, or any person in default in payment of membership fees established under ORS 9.191 (2) for a period of 30 days after admission or as otherwise provided by the board, or any member in default in payment of assessed contributions to a professional liability fund under ORS 9.080 (2) for a period of 30 days, shall, after 60 days’ written notice of the delinquency, be suspended from membership in the bar. The notice of delinquency shall be sent by the executive director, by registered or certified mail, to the member in default at the last-known post-office address of the member. Failure to pay the fees or contributions within 60 days after the date of the deposit of the notice in the post office shall automatically suspend the delinquent member. The names of all members suspended from membership for nonpayment of fees or contributions shall be certified by the executive director to the State Court Administrator and to each of the judges of the Court of Appeals, circuit and tax courts of the state.
+      (2) An active member delinquent in the payment of such fees or contributions shall not be entitled to vote.
+      (3) A member suspended for delinquency in payment of such fees or contributions shall be reinstated only on compliance with the rules of the Supreme Court and the rules of procedure and payment of all required fees or contributions. [Amended by 1957 c.271 §1; 1961 c.499 §2; subsection (2) formerly part of 9.190; 1979 c.508 §4a]
+ 
+      9.210 Board of bar examiners; fees of applicants for admission to bar. The Supreme Court shall appoint 12 members of the Oregon State Bar to a board of bar examiners. The Supreme Court shall also appoint two public members to the board who are not active or inactive members of the Oregon State Bar. The board shall examine applicants and recommend to the Supreme Court for admission to practice law those who fulfill the requirements prescribed by law and the rules of the Supreme Court. With the approval of the Supreme Court, the board may fix and collect fees to be paid by applicants for admission, which fees shall be paid into the treasury of the bar. [Amended by 1979 c.252 §20; 1981 c.193 §6]
+ 
+      9.220 General requirements for admission. An applicant for admission as attorney must apply to the Supreme Court and show that the applicant:
+      (1) Is at least 18 years old, which proof may be made by the applicant’s affidavit.
+      (2)(a) Is a person of good moral character and fit to practice law.
+      (b) For purposes of this section and ORS 9.025, 9.070, 9.110, 9.210, 9.250 and 9.527, the lack of “good moral character” may be established by reference to acts or conduct that reflect moral turpitude or to acts or conduct which would cause a reasonable person to have substantial doubts about the individual’s honesty, fairness and respect for the rights of others and for the laws of the state and the nation. The conduct or acts in question should be rationally connected to the applicant’s fitness to practice law.
+      (3) Has the requisite learning and ability, which must be shown by the examination of the applicant, by the judges or under their direction. However, no rule shall establish any maximum on the number of times an applicant may apply for and take the bar examination whenever presented if the reason for refusing admission to practice law is failure to pass the bar examination. [Amended by 1973 c.827 §2; 1981 c.193 §7; 1983 c.373 §2; 1985 c.599 §1; 1991 c.726 §3; 1995 c.302 §21; 1999 c.171 §3]
+ 
+      9.230 [Repealed by 1981 c.193 §12]
+ 
+      9.240 [Amended by 1961 c.499 §3; repealed by 1993 c.213 §2]
+ 
+      9.241 Practice of law by attorneys licensed in other jurisdictions; rules; fee. (1) Notwithstanding ORS 9.160, the Supreme Court may adopt rules to govern the appearance in judicial and administrative proceedings by attorneys who have not been admitted to practice law in this state. Subject to those rules, an attorney who has not been admitted to practice law in this state may appear as counsel for a party in an action or proceeding before a court, or may appear as counsel for a party in an administrative proceeding, if the attorney is associated with an active member of the Oregon State Bar.
+      (2) Notwithstanding ORS 9.160, the Supreme Court may adopt rules pursuant to the procedures established by ORS 9.490 that allow attorneys who have not been admitted to practice law in this state to practice law in Oregon on a temporary basis, including performing transactional or prelitigation work.
+      (3) The Supreme Court may by rule require the payment of a fee by an attorney appearing as counsel for a party in an action or proceeding before a court under the provisions of subsection (1) of this section. All amounts collected from any fee imposed by the Supreme Court under the provisions of this subsection shall be deposited with the Oregon State Bar and are continuously appropriated to the Oregon State Bar. Amounts appropriated to the Oregon State Bar under this subsection may be used only for the funding of legal services provided through the Legal Services Program established under ORS 9.572 and for expenses incurred by the Oregon State Bar in the administration of the Legal Services Program and in collecting fees imposed under this subsection. [1993 c.213 §1; 2001 c.223 §1; 2003 c.260 §5]
+ 
+      9.242 Advice on law of foreign jurisdiction; rules. (1) The Supreme Court may adopt rules permitting a person licensed to practice law in a foreign jurisdiction to advise on the law of that foreign jurisdiction in Oregon without the necessity of compliance with ORS 9.160.
+      (2) As used in this section, “foreign jurisdiction” means any nation, country, state, political or other entity other than any state of the United States, the District of Columbia, Puerto Rico or a United States Territory or possession. [1989 c.1052 §2]
+ 
+      9.250 Order for admission; oath of qualified applicant. (1) If the Supreme Court finds that an applicant for admission as an attorney is 18 years of age or more, is of good moral character and fit to practice law, and possesses the requisite learning and ability to practice as an attorney in all the courts of this state, the court shall enter an order that the applicant be admitted to practice as an attorney. The order shall specify that admission take effect upon the applicant taking the oath required by subsection (2) of this section.
+      (2) The applicant shall execute a written oath that in the practice of law the applicant will support the Constitution and laws of the United States and of this state, and be of faithful and honest demeanor in office. The applicant is entitled to practice as an attorney after the State Court Administrator has received the oath executed under this subsection. [Amended by 1973 c.827 §3; 1981 c.193 §8; 1989 c.1052 §6; 1991 c.726 §4; 1997 c.388 §3]
+ 
+      9.260 [Amended by 1953 c.604 §1; 1979 c.252 §21; repealed by 1989 c.1052 §7 (9.261 enacted in lieu of 9.260)]
+ 
+      9.261 Resignation of attorney. (1) An attorney may resign from membership in the bar pursuant to rules adopted by the board under ORS 9.542. After acceptance of the resignation by the Supreme Court, the attorney shall not be entitled to the rights nor subject to the disabilities or prohibitions incident to membership, except that the attorney is still subject to the power of the court in respect to matters arising prior to the resignation.
+      (2) An attorney who has resigned may be readmitted to practice only in compliance with rules adopted pursuant to ORS 9.542. [1989 c.1052 §8 (enacted in lieu of 9.260)]
+ 
+      9.270 [Amended by 1953 c.604 §1; 1961 c.499 §4; 1971 c.193 §17; 1979 c.252 §22; repealed by 1989 c.1052 §26]
+ 
+      9.280 Prohibition on acting as immigration consultant; definitions; exception. (1) It shall be a violation of ORS 9.160 for any person to engage in the business or act in the capacity of an immigration consultant in this state, for compensation, unless the person is an active member of the Oregon State Bar.
+      (2) As used in this section, unless the context or subject matter requires otherwise:
+      (a) “Immigration consultant” means any person who gives advice on an immigration matter, including but not limited to drafting an application, brief, document, petition or other paper or completing a form provided by a federal or state agency in an immigration matter.
+      (b) “Immigration matter” means any proceeding, filing or action affecting the immigration or citizenship status of any person which arises under immigration and naturalization law, executive order or presidential proclamation, or action of the United States Department of Homeland Security, the United States Department of Justice, the United States Department of State or the United States Department of Labor.
+      (3) This section does not apply to any person or qualified designated entity authorized by federal law to represent persons before the United States Department of Homeland Security or the United States Department of Justice. [1987 c.860 §5; 2007 c.61 §1]
+ 
+ATTORNEY AND CLIENT RELATIONSHIP
+ 
+      9.310 Attorney defined; counsel. An attorney is a person authorized to represent a party in the written proceedings in any action, suit or proceeding, in any stage thereof. An attorney, other than the one who represents the party in the written proceedings, may also represent a party in court, or before a judicial officer, in which case the attorney is known as counsel, and the authority of the attorney is limited to the matters that transpire in the court or before such officer at the time.
+ 
+      9.320 Necessity for employment of attorney; effect of employment. Any action, suit, or proceeding may be prosecuted or defended by a party in person, or by attorney, except that the state or a corporation appears by attorney in all cases, unless otherwise specifically provided by law. Where a party appears by attorney, the written proceedings must be in the name of the attorney, who is the sole representative of the client of the attorney as between the client and the adverse party, except as provided in ORS 9.310. [Amended by 1975 c.451 §171]
+ 
+      9.330 Authority of attorney. An attorney has authority to bind the attorney’s client in any of the proceedings in an action, suit or proceeding, by the attorney and client agreement, filed with the clerk or entered in the appropriate record of the court. The attorney also has authority to receive money or property claimed by the client in an action, suit or proceeding, during the pendency thereof, or within three years after judgment, and upon the payment or delivery thereof to discharge the claim or acknowledge satisfaction of the judgment. This section does not prevent a party from employing a new attorney to issue execution upon a judgment or to take other proceedings prescribed by law for its enforcement, and when the party does so, the authority of the former attorney ceases. [Amended by 1985 c.540 §23; 2003 c.576 §277]
+ 
+      9.340 Challenge by party of attorney’s authority to appear for party. If it is alleged by a party for whom an attorney appears that the attorney does so without authority, and the allegation is verified by the affidavit of the party, the court may, if it finds the allegation true, at any stage of the proceedings relieve the party for whom the attorney has assumed to appear from the consequences of the attorney’s acts.
+ 
+      9.350 Challenge of attorney’s authority to appear for adverse party. The court or judge thereof may, on motion of either party and on showing reasonable grounds therefor, require the attorney for an adverse party to prove the authority under which the attorney appears, and until the attorney does so, may stay all proceedings by the attorney on behalf of the party for whom the attorney assumes to appear.
+ 
+      9.360 Compelling delivery by attorney of money or papers. When an attorney refuses to deliver over money or papers to a person from whom or for whom the attorney has received them in the course of professional employment, the attorney may be required by an order of the court in which a judicial proceeding was prosecuted or defended, or if none were prosecuted or defended, then by an order of the circuit court or judge thereof for the county where such attorney resides or may be found, to do so within a specified time, or show cause why the attorney should not be punished for a contempt.
+ 
+      9.370 Compelling delivery when attorney claims lien. If an attorney claims a lien, under the provisions of ORS 87.430, upon the money or papers subject to delivery under ORS 9.360, the court shall:
+      (1) Impose, as a condition of making the order, the requirement that the client give security, in form and amount to be directed, to satisfy the lien when determined in an action or suit;
+      (2) Summarily inquire into the facts on which the claim of a lien is founded, and determine the same; or
+      (3) Direct the trial of the controversy by a jury, or refer it, and upon the verdict or report, determine the same as in other cases. [Amended by 1975 c.648 §70; 1991 c.67 §2; 2003 c.14 §9]
+ 
+      9.380 Changing attorneys and terminating attorney-client relationship. (1) The attorney in an action or proceeding may be changed, or the relationship of attorney and client terminated, as follows:
+      (a) Before judgment or final determination, upon the consent of the attorney filed with the clerk or entered in the appropriate record of the court; or
+      (b) At any time, upon the order of the court, based on the application of the client or the attorney, for good and sufficient cause.
+      (2) The relationship of attorney and client may be terminated after the entry of a judgment or other final determination in an action or proceeding by the filing of a notice of termination of the relationship in the action or proceeding. The notice must be signed by the attorney and must state that all services required of the attorney under the agreement between the attorney and the client have been provided. [Amended by 1985 c.540 §24; 2003 c.576 §278; 2011 c.60 §1]
+ 
+      9.390 Notice of change or termination. When an attorney is changed, or the relationship of attorney and client is terminated, as provided in ORS 9.380, written notice of the change or termination shall be given to the adverse party. Until the notice is given, the adverse party is bound to recognize the former attorney. [Amended by 2011 c.60 §2]
+      9.400 [1987 c.774 §8; renumbered 20.340 in 1997]
+ 
+PROFESSIONAL CONDUCT
+ 
+      9.460 Duties of attorneys. An attorney shall:
+      (1) Support the Constitution and laws of the United States and of this state;
+      (2) Employ, for the purpose of maintaining the causes confided to the attorney, such means only as are consistent with truth, and never seek to mislead the court or jury by any artifice or false statement of law or fact;
+      (3) Maintain the confidences and secrets of the attorney’s clients consistent with the rules of professional conduct established pursuant to ORS 9.490; and
+      (4) Never reject, for any personal consideration, the cause of the defenseless or the oppressed. [Amended by 1989 c.1052 §9; 1991 c.726 §5]
+ 
+      9.470 [Repealed by 1965 c.353 §2]
+ 
+      9.480 [Amended by 1965 c.353 §1; 1981 c.193 §9; renumbered 9.527]
+ 
+      9.490 Formulation of rules of professional conduct; prohibition on certain sanctions for violation of rule. (1) The board of governors, with the approval of the house of delegates given at any regular or special meeting, shall formulate rules of professional conduct, and when such rules are adopted by the Supreme Court, shall have power to enforce the same. Such rules shall be binding upon all members of the bar.
+      (2) A court of this state may not order that evidence be suppressed or excluded in any criminal trial, grand jury proceeding or other criminal proceeding, or order that any criminal prosecution be dismissed, solely as a sanction or remedy for violation of a rule of professional conduct adopted by the Supreme Court. [Amended by 1995 c.302 §19; 1995 c.708 §2]
+ 
+PROHIBITED CONDUCT
+ 
+      9.500 Solicitation of personal injury business by nonlawyer. No person shall solicit within the state any business on account of a claim for personal injuries to any person, or solicit any litigation on account of personal injuries to any person within the state, and any contract wherein any person not an attorney agrees to recover, either through litigation or otherwise, any damages for personal injuries to any person shall be void.
+ 
+      9.505 Payment for referring claims resulting from personal injury or death. No person shall offer or promise payment of money or other consideration, or accept any offer or promise of payment of money or other consideration, nor shall any person pay or accept money or other consideration, for referring to an attorney any claim for damage resulting from personal injury or death. [1961 c.561 §1]
+ 
+      9.510 Solicitation by attorneys. No attorney shall solicit business at factories, mills, hospitals or other places, or retain members of a firm or runners or solicitors for the purpose of obtaining business on account of personal injuries to any person, or for the purpose of bringing damage suits on account of personal injuries.
+ 
+      9.515 Referral of claims, suits or actions between attorneys; division of fees. (1) Nothing contained in ORS 9.505 shall prevent referral of claims, suits or actions between attorneys.
+      (2) The provisions of ORS 9.505 shall not prohibit the referral of claims, suits or actions between attorneys or the dividing of fees for legal services with another lawyer consistent with the rules of professional conduct adopted pursuant to ORS 9.490. [1961 c.561 §§2,3; 1989 c.1052 §10]
+ 
+      9.520 Acceptance and prosecution of solicited claims. No attorney shall accept from a solicitor described in ORS 9.500 any claim for damages, or bring an action for damages on account of any claim obtained from such solicitor. Any agreement between an attorney and such solicitor regarding compensation to be paid to the attorney or solicitor is void.
+ 
+      9.525 [1975 c.641 §8; repealed by 1983 c.618 §1]
+ 
+BAR DISCIPLINARY PROCEEDINGS
+ 
+      9.527 Grounds for disbarment, suspension or reprimand. The Supreme Court may disbar, suspend or reprimand a member of the bar whenever, upon proper proceedings for that purpose, it appears to the court that:
+      (1) The member has committed an act or carried on a course of conduct of such nature that, if the member were applying for admission to the bar, the application should be denied;
+      (2) The member has been convicted in any jurisdiction of an offense which is a misdemeanor involving moral turpitude or a felony under the laws of this state, or is punishable by death or imprisonment under the laws of the United States, in any of which cases the record of the conviction shall be conclusive evidence;
+      (3) The member has willfully disobeyed an order of a court requiring the member to do or forbear an act connected with the legal profession;
+      (4) The member is guilty of willful deceit or misconduct in the legal profession;
+      (5) The member is guilty of willful violation of any of the provisions of ORS 9.460 or 9.510;
+      (6) The member is guilty of gross or repeated negligence or incompetence in the practice of law; or
+      (7) The member has violated any of the provisions of the rules of professional conduct adopted pursuant to ORS 9.490. [Formerly 9.480; 1989 c.1052 §11]
+ 
+      9.528 Advice on conducting covert operations; participation in covert operations. (1) Notwithstanding ORS 9.527 (4), the attorneys listed in subsection (2) of this section:
+      (a) May provide legal advice and direction to the officers and employees of a public body, as defined in ORS 192.410, or to the officers and employees of the federal government, on conducting covert activities for the purpose of enforcing laws, even though the activities may require the use of deceit or misrepresentation; and
+      (b) May participate in covert activities that are conducted by public bodies, as defined in ORS 192.410, for the purpose of enforcing laws, or in covert activities that are conducted by the federal government for the purpose of enforcing laws, even though the participation may require the use of deceit or misrepresentation.
+      (2) The provisions of this section apply to the Attorney General, the Deputy Attorney General, assistant attorneys general, district attorneys, deputy district attorneys and any other attorney employed by, or working on behalf of, a public body, as defined in ORS 192.410, or the federal government. [2001 c.667 §2]
+ 
+      9.529 Status of proceedings relating to discipline, admission or reinstatement. Bar proceedings relating to discipline, admission and reinstatement are neither civil nor criminal in nature. They are sui generis and within the inherent power of the Supreme Court to control. The grounds for denying any applicant admission or reinstatement or for the discipline of attorneys set forth in ORS 9.005 to 9.755 are not intended to limit or alter the inherent power of the Supreme Court to deny any applicant admission or reinstatement to the bar or to discipline a member of the bar. [1983 c.618 §3; 1997 c.249 §9]
+ 
+      9.530 [Repealed by 1965 c.353 §2]
+ 
+      9.532 Local professional responsibility committees; state professional responsibility board; powers; witnesses; subpoenas; oaths. (1) The board of governors shall create local professional responsibility committees to investigate the conduct of attorneys. The composition and authority of local professional responsibility committees shall be as provided in the rules of procedure.
+      (2) The board of governors shall also create a state professional responsibility board to review the conduct of attorneys and to institute disciplinary proceedings against members of the bar. The composition and authority of the state professional responsibility board shall be as provided in the rules of procedure.
+      (3)(a) The state professional responsibility board and local professional responsibility committees shall have the authority to take evidence, administer oaths or affirmations, and issue subpoenas to compel the attendance of witnesses, including the member being investigated, and the production of books, papers and documents pertaining to the matter under investigation.
+      (b) A witness in an investigation conducted by the state professional responsibility board or a local professional responsibility committee who testifies falsely, fails to appear when subpoenaed, or fails to produce any books, papers or documents pursuant to subpoena, shall be subject to the same orders and penalties to which a witness before a circuit court is subject. The state professional responsibility board or local professional responsibility committees may enforce any subpoena issued pursuant to paragraph (a) of this subsection by application to any circuit court.
+      (c) Any member of the state professional responsibility board or a local professional responsibility committee may administer oaths or affirmations and issue any subpoena provided for in paragraph (a) of this subsection. [1983 c.618 §4]
+ 
+      9.534 Disciplinary board; procedure before board; oaths; subpoenas; hearing; record. (1) The Supreme Court shall appoint a disciplinary board to hear formal charges against members of the bar. The composition and authority of, and procedure before, the disciplinary board or panels thereof shall be as provided in the rules of procedure.
+      (2) A member, formally accused of misconduct by the bar, shall be given reasonable written notice of the charges against the member, a reasonable opportunity to defend against the charges, the right to be represented by counsel, and the right to examine and cross-examine witnesses. The member shall also have the right to appear and testify, and the right to the issuance of subpoenas for attendance of witnesses and the production of books, papers or documents in the defense of the member.
+      (3) Rules of evidence and discovery in disciplinary proceedings shall be as provided in the rules of procedure.
+      (4)(a) The disciplinary board shall have the authority to take evidence, administer oaths or affirmations, and issue subpoenas to compel the attendance of witnesses, including the accused member, and the production of books, papers and documents pertaining to the matter before the disciplinary board.
+      (b) A witness in a disciplinary proceeding who testifies falsely, fails to appear when subpoenaed, or fails to produce any books, papers or documents pursuant to subpoena, shall be subject to the same orders and penalties to which a witness before a circuit court is subject. Subpoenas issued pursuant to paragraph (a) of this subsection may be enforced by application to any circuit court.
+      (c) Any member of the disciplinary board may administer oaths or affirmations and issue any subpoena provided for in paragraph (a) of this subsection.
+      (5) The hearing before the disciplinary board shall be held in the county in which the member charged maintains an office for the practice of law, the county in which the member resides, or the county in which the offense is alleged to have been committed. With the consent of the member, the hearing may be held elsewhere in the state.
+      (6) A record of all hearings shall be made and preserved by the disciplinary board. [1983 c.618 §5]
+ 
+      9.535 [1975 c.641 §9; 1979 c.450 §1; repealed by 1983 c.618 §1]
+ 
+      9.536 Disciplinary board decision; appeal to Supreme Court; review; costs. (1) Upon the conclusion of a hearing, the disciplinary board shall file with the State Court Administrator a written decision in the matter. The Oregon State Bar or the accused may seek review of the decision by the Supreme Court. Such review shall be a matter of right upon the request of either party. Otherwise, the decision of the disciplinary board shall be final. The procedure for seeking discretionary review and on review shall be as provided in the rules of procedure.
+      (2) When a matter is before the Supreme Court for review, the court shall consider the matter de novo and may adopt, modify or reject the decision of the disciplinary board in whole or in part and thereupon enter an appropriate order.
+      (3) The Supreme Court, or the disciplinary board in cases where its decision has become final, may award judgment in any bar proceeding for all or part of a party’s actual and necessary costs and disbursements incurred. The procedures for recovery of such costs and disbursements shall be the same as in civil cases.
+      (4) The State Court Administrator shall enter any judgment for costs and disbursements in the records of the Supreme Court and shall forward a certified copy of the judgment to the clerk of the circuit court of the county in which the member or applicant resides or maintains an office for the practice of law or other business. If a judgment for costs and disbursements is entered against the bar, the State Court Administrator shall forward a certified copy of the judgment to the clerk of the circuit court of the county in which the bar maintains its principal place of business. On receipt of a certified copy of the judgment, the clerk of the circuit court shall file it and cause it to be entered in the circuit court register. Such judgment shall thereafter have the same force and effect, may be enforced by execution in the same manner, may be extended in the same manner and, upon payment, shall be satisfied in the same manner as other judgments entered in circuit court. [1983 c.618 §6; 1985 c.540 §25; 1991 c.790 §2; 1997 c.149 §1; 2003 c.192 §4; 2003 c.576 §175]
+ 
+      9.537 Civil immunity of witnesses, bar officials and employees. (1) Any person who has made a complaint to the bar concerning the conduct of an attorney, or who has given information or testimony in or relative to a proposed or pending admission, reinstatement or disciplinary proceeding shall be absolutely immune from civil liability for any such acts.
+      (2) The Oregon State Bar, its officers, the members of local professional responsibility committees, the state professional responsibility board, the board of bar examiners, the board of governors, the disciplinary board, and bar counsel, investigators and employees of the bar shall be absolutely immune from civil liability in the performance of their duties relative to proposed or pending admission, reinstatement or disciplinary proceedings. [1983 c.618 §7]
+ 
+      9.539 Application to admission and reinstatement proceedings. ORS 9.534 and 9.536 apply to admission and reinstatement proceedings to the extent provided in the rules of procedure. However, the Supreme Court shall review the decisions of the disciplinary board in all such matters. [1983 c.618 §8]
+ 
+      9.540 [Amended by 1961 c.499 §5; 1971 c.193 §18; repealed by 1973 c.490 §1 (9.541 enacted in lieu of 9.540)]
+ 
+      9.541 [1973 c.490 §2 (enacted in lieu of 9.540); repealed by 1975 c.641 §13]
+ 
+      9.542 Rules for investigation of attorneys and applicants; authority of board of governors to require fingerprints. (1) The board of governors, subject to the approval of the Supreme Court, may adopt rules of procedure relating to the investigation of the conduct of attorneys and applicants for admission and reinstatement to the bar, and relating to the conduct of admission, reinstatement and disciplinary proceedings.
+      (2) For the purpose of requesting a state or nationwide criminal records check under ORS 181.534, the board of governors may require the fingerprints of a person who is applying for admission or reinstatement to the bar or for renewal of a license issued by the bar. [1983 c.618 §9; 2005 c.730 §56]
+ 
+      9.545 [1983 c.617 §2 (enacted in lieu of 9.595); 1999 c.171 §1; renumbered 9.568 in 1999]
+ 
+      9.550 [Amended by 1961 c.499 §6; 1973 c.490 §3; 1975 c.641 §6; 1979 c.252 §23; repealed by 1983 c.618 §1]
+ 
+      9.555 Copy of complaint or notice to Attorney General when bar is plaintiff or defendant; exceptions. (1) Upon commencement of any action in which the bar is a plaintiff, the bar shall mail a copy of the complaint by certified or registered mail, return receipt requested, to the Attorney General and shall file proof of such mailing with the court.
+      (2) When the bar is served with summons and complaint in an action in which the bar is named as a defendant, the bar shall give notice to the Attorney General by mailing a copy of the summons and complaint to the Attorney General by certified or registered mail, return receipt requested, within five working days of the date of service on the bar.
+      (3) The notice provisions of subsections (1) and (2) of this section shall not apply to matters involving admission of any applicant to the bar, discipline or reinstatement of a member of the bar or claims made against a member of the bar for which the professional liability fund of the bar may be obligated to pay money damages under ORS 9.080 (2). [1985 c.446 §3]
+ 
+      9.560 [Amended by 1963 c.106 §1; 1973 c.490 §4; 1975 c.641 §7; 1979 c.252 §24; repealed by 1983 c.618 §1]
+ 
+      9.565 Tax return information from Department of Revenue; use. The Department of Revenue may furnish to the Oregon State Bar the name and address, if known, of any person admitted to practice law in this state who prepares a return or report permitted or required to be filed with the department for another, and may also furnish to the bar the name and address of the taxpayer, in instances where the department has reasonable grounds to believe the person preparing the return or report prepared it in violation of any provision of ORS 9.460 to 9.542 or 9.705 to 9.755 or the disciplinary rules adopted thereunder. The department shall provide a statement of the basis for its belief that a violation may have occurred. The bar and any person, board or committee described in ORS 9.537 (2), shall use the names, addresses and information furnished under this section solely in the enforcement of ORS 9.460 to 9.542 or 9.705 to 9.755 or the disciplinary rules adopted thereunder. Any information disclosed by the department pursuant to this section may be used in any bar proceeding relating to the discipline, admission or reinstatement of the person preparing the return or report. [1985 c.602 §10; 1999 c.171 §2]
+ 
+ATTORNEY ASSISTANCE
+ 
+      9.568 State lawyers assistance committee; personal and practice management assistance committees; rules; confidentiality; civil immunity. (1)(a) The board of governors of the Oregon State Bar may create a state lawyers assistance committee for the purpose of implementing a lawyers assistance program and, pursuant thereto, authorize the state lawyers assistance committee to investigate and resolve complaints or referrals regarding lawyers whose performance or conduct may impair their ability to practice law or their professional competence.
+      (b) The board may adopt rules for the operation of the state lawyers assistance committee.
+      (c) The purpose of the state lawyers assistance committee is the provision of supervision and assistance to those lawyers whose performance or conduct may impair their ability to practice law or their professional competence.
+      (2)(a) In addition to the state lawyers assistance committee created under subsection (1) of this section, the board may create personal and practice management assistance committees to provide assistance to lawyers who are suffering from impairment or other circumstances that may adversely affect professional competence or conduct. Personal and practice management assistance committees may also provide advice and training to lawyers in practice management.
+      (b) The board may adopt rules governing the provision of assistance to lawyers by personal and practice management assistance committees.
+      (c) The purpose of a personal and practice management assistance committee is the provision of completely confidential assistance, advice and training to lawyers in a manner that fosters maximum openness in communications between a lawyer and the committee and that encourages a lawyer to seek assistance from the committee.
+      (3) Any information provided to or obtained by the state lawyers assistance committee or any personal and practice management assistance committee, or provided to or obtained by any agent of those committees, is:
+      (a) Confidential;
+      (b) Exempt from the provisions of ORS 192.410 to 192.505;
+      (c) Not discoverable or admissible in any civil proceeding without the written consent of the lawyer to whom the information pertains; and
+      (d) Not discoverable or admissible in any disciplinary proceeding except to the extent provided by rules of procedure adopted pursuant to ORS 9.542.
+      (4) The limitations placed on the disclosure and admissibility of information in this section shall not apply to information relating to a lawyer’s noncooperation with the state lawyers assistance committee or any agent of the committee, or to information otherwise obtained by the bar from any other source.
+      (5) The board may authorize the state lawyers assistance committee to act as the monitor or supervisor for lawyers placed on probation or in diversion in connection with a disciplinary investigation or proceeding, or who have been conditionally admitted or reinstated to the practice of law. Any information provided to or obtained by the state lawyers assistance committee when the committee acts as a monitor or supervisor under the provisions of this subsection is not subject to subsection (3) of this section.
+      (6) All meetings of the state lawyers assistance committee and the personal and practice management assistance committees are exempt from the provisions of ORS 192.610 to 192.690.
+      (7) Any person who makes a complaint or referral to the bar as to the competence of an attorney or provides information or testimony in connection with the state lawyers assistance committee or any personal and practice management assistance committee is not subject to an action for civil damages as a result thereof.
+      (8) With respect to their acts in connection with the state lawyers assistance committee or any personal and practice management assistance committee, the same privileges and immunities from civil and criminal proceedings that apply to prosecuting and judicial officers of the state shall apply to the board, all officers and employees of the bar, and the members of the committees and their agents.
+      (9) For the purposes of this section, agents of the state lawyers assistance committee or a personal and practice management assistance committee include investigators, attorneys, counselors, staff personnel and any other individual or entity acting on behalf of or at the request of the committees. [Formerly 9.545; 2005 c.347 §3]
+ 
+      9.570 [Repealed by 1983 c.618 §1]
+ 
+LEGAL SERVICES PROGRAM
+ 
+      9.572 Bar to establish Legal Services Program; director; advisory and technical committees. (1) The Oregon State Bar shall by rule establish a Legal Services Program. The program shall provide standards and guidelines for legal service providers receiving funding from the program. The rules shall also provide methods for evaluating legal service providers. Funding received under the program may be used only for the provision of legal services to the poor without charge and for expenses incurred by the Oregon State Bar in the administration of the Legal Services Program.
+      (2) The Oregon State Bar shall appoint a director of the Legal Services Program established under this section. The bar shall prescribe the duties of the director and fix the salary of the director.
+      (3) The Oregon State Bar may establish any advisory or technical committees it deems necessary to advise the bar in establishing and operating the Legal Services Program. [1997 c.801 §73; 2011 c.595 §99]
+ 
+      9.574 [1997 c.801 §72; 2003 c.737 §98; repealed by 2011 c.595 §97a]
+ 
+      9.576 Review of providers; mediation; hearing; suspension of funding. (1) The director of the Legal Services Program appointed under ORS 9.572 shall periodically review legal service providers who receive funding from the program. If the director determines that there are reasonable grounds to believe that a provider is not in substantial compliance with the standards and guidelines adopted under ORS 9.572, the director shall negotiate with the provider in an attempt to bring the program into compliance.
+      (2) If the director of the Legal Services Program is unable to negotiate satisfactory compliance with the standards and guidelines of the program established by the Oregon State Bar under ORS 9.572, the director shall give the provider 30 days in which to bring the program into compliance. If the director concludes that the program is not in compliance at the end of the 30-day period, the matter shall be submitted to mediation. The director and the provider shall jointly select a mediator. If the director and provider are unable to select a mediator within 15 days after the expiration of the 30-day period, any presiding judge for a judicial district may appoint a mediator upon the petition of the director.
+      (3) If mediation under subsection (2) of this section fails to produce a resolution of the matter, the director shall give the provider notice that a hearing will be held not sooner than 30 days after the date the notice is given. If, after hearing, the director determines that the provider is not in compliance with the standards and guidelines of the program and that the provider has failed to show satisfactory progress towards achieving compliance, the director shall suspend further funding of the program until such time as the provider makes a showing of compliance. [1997 c.801 §74; 2011 c.595 §100]
+ 
+      9.577 Legal Aid Account. (1) The Legal Aid Account is established in the General Fund of the State Treasury. All moneys in the account are continuously appropriated to the State Court Administrator for the purpose of the distributions required by this section. Interest earned by the account shall be credited to the General Fund.
+      (2) Each month, the State Court Administrator shall transfer to the Legal Aid Account, from amounts collected by the State Court Administrator as fees and charges in the circuit courts, the amounts necessary to make the distributions required by subsection (3) of this section.
+      (3) Each biennium, the State Court Administrator shall distribute to the Oregon State Bar $11.9 million from the Legal Aid Account. Distributions under this section shall be made by the State Court Administrator in eight quarterly installments of equal amounts, with the first distribution to be made as soon as possible after July 1, 2011. Amounts distributed to the Oregon State Bar under this subsection may be used only for the funding of the Legal Services Program established under ORS 9.572. [2011 c.595 §3a]
+ 
+      Note: 9.577 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 9 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+ 
+      9.578 Other funding sources. The Oregon State Bar may apply for, accept and expend moneys from any public or private source, including the federal government, made available for the purpose of establishing or funding legal service programs in Oregon. [1997 c.801 §75]
+ 
+      9.580 [Repealed by 1983 c.618 §1]
+ 
+      9.590 [Repealed by 1953 c.609 §2]
+ 
+      9.595 [1981 c.193 §11; repealed by 1983 c.617 §1 (9.545 enacted in lieu of 9.595)]
+ 
+      9.600 [Repealed by 1953 c.609 §2]
+ 
+      9.610 [Repealed by 1953 c.609 §2]
+ 
+CLIENT SECURITY FUND
+ 
+      9.615 Definition for ORS 9.615 to 9.665. As used in ORS 9.615 to 9.665, “client security fund” means a fund created under ORS 9.625. [1967 c.546 §2]
+ 
+      9.620 [Repealed by 1953 c.609 §2]
+ 
+      9.625 Plan to relieve client losses; rules. The board of governors may adopt a plan to relieve or mitigate pecuniary losses to the clients of active members caused by dishonest conduct of those members in their practice of law. The plan may provide for establishing, administering and dissolving a separate fund and for payments from that fund to reimburse losses and costs and expenses of administering the fund. The board may adopt rules of procedure to carry out the plan. The insurance laws of the state shall not apply to this fund. [1967 c.546 §3; 1975 c.641 §10; 1989 c.1052 §12]
+ 
+      9.630 [Repealed by 1953 c.609 §2]
+ 
+      9.635 Sources of client security fund. A client security fund may include:
+      (1) Transfers by the board of governors from other funds of the state bar;
+      (2) Voluntary contributions and payments by members under ORS 9.645;
+      (3) Claims recovered under ORS 9.665; and
+      (4) Income from investments of the fund. [1967 c.546 §4]
+ 
+      9.640 [Repealed by 1953 c.609 §2]
+ 
+      9.645 Annual payment by state bar members. To establish and maintain a client security fund, the board of governors may require an annual payment by each active member of the state bar. The payment authorized by this section shall be due at the same time, and enforced in the same manner, as payment of the annual membership fee. [1967 c.546 §5; 1975 c.641 §11; 1979 c.314 §1; 1983 c.122 §1; 1989 c.1052 §25; 1991 c.726 §6]
+ 
+      9.650 [Repealed by 1953 c.609 §2]
+ 
+      9.655 Investigation of claim of loss; subpoena. (1) Upon the filing of a claim, verified under oath, by a client claiming a pecuniary loss payable from the client security fund, the board of governors or its designated representative shall determine if the person named in the claim as the attorney whose dishonest conduct caused the loss was an active member of the Oregon State Bar engaged in the practice of law in Oregon at the time of the transaction out of which the claim arose and whether the transaction arose out of the person’s practice of law in Oregon. The board or designated representative shall then determine whether the loss was caused by the person’s dishonest conduct and if the person:
+      (a) Has been found guilty of a crime arising out of the dishonest conduct;
+      (b) In the case of a claim of loss of $5,000 or less, has been disbarred, suspended or reprimanded in disciplinary proceedings or has resigned from the bar due to circumstances arising out of the dishonest conduct; or
+      (c) Is a judgment debtor under the money award portion of a judgment entered in favor of the client in a proceeding arising out of the dishonest conduct, and execution issued on the judgment has been returned uncollected or issuance of execution would be a useless act.
+      (2) At any time after a claim is filed by a client claiming a pecuniary loss payable from the client security fund, the board or the board’s representative may compel by subpoena the person named in the claim as the attorney whose dishonest conduct caused the loss, or any other person having knowledge of the matter, to appear for the purpose of giving testimony, and may compel by subpoena the production of records and documents pertinent to the claim. The subpoena shall have the same force and effect as in a civil action in the circuit court, and may be enforced by order of the circuit court for the county in which the person was served. [1967 c.546 §6; 1975 c.641 §12; 1979 c.383 §1; 1989 c.1052 §13; 2003 c.576 §279; 2005 c.347 §4; 2007 c.59 §1]
+ 
+      9.657 Immunity from civil liability. (1) Any person who has made a claim with the client security fund committee of the bar concerning a loss allegedly caused by the intentional dishonest conduct of the person’s lawyer, or who has given information to the bar relative to a proposed or pending client security fund claim shall be absolutely immune from civil liability for such acts.
+      (2) The Oregon State Bar, its officers, the members of the client security fund committee, the board of governors, bar counsel, investigators and employees of the bar shall be absolutely immune from civil liability in the performance of their duties relative to proposed or pending client security fund claims. [1989 c.1052 §4]
+ 
+      9.660 [Repealed by 1953 c.609 §2]
+ 
+      9.665 Authority for reimbursement of client; waiver of conditions; subrogation for amount paid. (1) Except as provided in this section, reimbursement from the client security fund is discretionary with the board of governors.
+      (2) The board shall not authorize payment unless the conditions of ORS 9.655 (1) have been found to exist. However, the board may, in its sole discretion, waive one or more of the conditions of ORS 9.655 (1) in cases of extreme hardship or special and unusual circumstances. The state bar is subrogated, in the amount that a client’s claim is reimbursed from the client security fund, to all rights and remedies of that client against the attorney whose dishonest conduct caused the loss, against the estate of the attorney or against any other person liable for the loss. [1967 c.546 §7; 1989 c.1052 §14; 1991 c.726 §7; 2003 c.14 §10]
+ 
+      9.670 [Repealed by 1953 c.609 §2]
+ 
+LAWYER TRUST ACCOUNTS
+ 
+      9.675 Mandatory certification and disclosures for lawyer trust accounts. (1) An active member of the Oregon State Bar shall certify annually to the bar whether the member maintains any lawyer trust accounts in Oregon. If a member maintains one or more lawyer trust accounts, the member must disclose the financial institution in which each account is held and the account number for each account. The executive director of the Oregon State Bar shall prescribe a form and due date for the certification and disclosures required by this section.
+      (2) If a member does not file the certificate and disclosures required by this section by the due date prescribed under subsection (1) of this section, the executive director shall send written notice of the default to the member. The notice shall be sent by registered or certified mail to the last-known post-office address of the member. If a member does not file the certificate and disclosures required by this section within 60 days after the date the notice is mailed, the person’s membership in the bar is automatically suspended. The executive director shall provide the names of all persons suspended under this section to the judges of the circuit courts, the Court of Appeals and the Oregon Tax Court.
+      (3) A person suspended under this section may be reinstated to membership in the bar only if the person pays all required fees and contributions and complies with all rules of procedure and rules of the Supreme Court relating to reinstatement. [2011 c.304 §2]
+ 
+      9.680 [Repealed by 1953 c.609 §2]
+ 
+      9.685 Trust account overdraft notification program. (1) Subject to the requirements of ORS 9.490, the Supreme Court may establish a trust account overdraft notification program for attorneys.
+      (2) The board of governors may adopt regulations for the administration of a trust account overdraft notification program established under this section. Regulations adopted under this subsection are binding upon all members of the bar only after those regulations are approved by the Supreme Court. [Formerly 9.132]
+ 
+      9.690 [Repealed by 1953 c.609 §2]
+ 
+SEARCH OR SEIZURE OF LAWYER FILES OR PREMISES
+ 
+      9.695 Status of files or work premises of lawyer; inadmissibility of evidence subject to search or seizure. (1) Notwithstanding ORS 133.535, the files, papers, effects or work premises of a lawyer relating to the provision of legal service by the lawyer shall not be subject to search or seizure by any law enforcement officer, either by search warrant or otherwise.
+      (2) The provisions of subsection (1) of this section do not apply where there is probable cause to believe that the lawyer has committed, is committing or is about to commit a crime.
+      (3) As used in this section, “lawyer” means a member of the Oregon State Bar or a person licensed to practice law in any court of this state or any court of record of the United States or of any state, territory or other jurisdiction of the United States.
+      (4) Evidence or the fruits thereof obtained in violation of this section shall be inadmissible in any criminal or civil action or proceeding, except for an action or suit brought for violation of this section or the rights protected thereby. [1981 c.908 §1]
+ 
+      9.700 [Repealed by 1953 c.609 §2]
+ 
+ASSUMING PRACTICE OF NONPERFORMING ATTORNEY
+ 
+      9.705 Definitions for ORS 9.705 to 9.755. As used in ORS 9.705 to 9.755:
+      (1) “Affected attorney” means a member or former member of the Oregon State Bar whose law practice is placed within the jurisdiction of the court or as to whom a petition has been filed to place such law practice within the jurisdiction of the court.
+      (2) “Law practice” means a practice conducted by an individual, a partnership or a professional corporation. [1979 c.252 §2; 1985 c.512 §4; 1989 c.1052 §15]
+ 
+      9.710 Jurisdiction of circuit court when attorney fails to devote adequate attention to practice or to interests of clients. The circuit court of the county in which an attorney engaged in the practice of law in this state maintains or has maintained a principal office shall have jurisdiction as provided in ORS 9.705 to 9.755 whenever such attorney:
+      (1) Without good reason has ceased to devote or is incapable of devoting time and attention, personally or through another attorney, to the law practice of the attorney; or
+      (2) For any reason has ceased to devote or is incapable of devoting the time and attention, personally or through another attorney, to the law practice of the attorney which is necessary to protect the interests of the clients of the attorney. [1979 c.252 §3; 1985 c.512 §5; 1989 c.1052 §16]
+ 
+      9.715 Effect of failure to respond to inquiry from bar. If the affected attorney fails to respond or respond adequately within seven days to an inquiry sent by registered mail or by certified mail with return receipt from the bar to the last-known address of that attorney regarding the alleged failure of the affected attorney to serve and protect adequately the interests of that client of the attorney, either personally or through another attorney, the board of governors may petition the court to take jurisdiction over the law practice of an affected attorney as provided in ORS 9.705 to 9.755. Notice of the filing of the petition, and a copy thereof, shall be served upon the affected attorney, or if appropriate, upon the heirs of the affected attorney, personal representatives or conservators together with notice of time and place for hearing upon said petition. Service may be made by personal or substituted service as provided by law for service of a summons, or in the alternative, may be made by certified or registered mail, return receipt requested, addressed to the affected attorney at the latest address shown on the official membership records of the Oregon State Bar or to the personal representative or conservator of the affected attorney at the latest address shown in the probate proceeding. The court may prescribe additional alternative methods of service as it deems necessary to protect the interest of the affected attorney. Hearing upon said petition shall be held not sooner than five days, nor more than 15 days, after the filing of the petition. [1979 c.252 §4; 1985 c.512 §6; 1989 c.1052 §17; 1991 c.249 §2]
+ 
+      9.720 Court assuming law practice; hearing. If after notice and an opportunity to be heard the court finds that it has jurisdiction and finds that the assumption of such jurisdiction is necessary in order to protect the interest of the clients of the affected attorney or to protect the public interest, the court may, by appropriate order, immediately take jurisdiction over the law practice of the affected attorney, including all legal files, clients’ trust funds, clients’ property and all books, records, funds and property used in the law practice of the affected attorney. [1979 c.252 §5]
+ 
+      9.722 Temporary protective order. Notwithstanding ORS 9.715 and 9.720, the court may enter a temporary order authorizing the Oregon State Bar to take specific action to protect the interests of an attorney’s clients, an attorney’s employees or other persons without giving notice of the petition to the affected attorney, to the heirs of the affected attorney or to the personal representative or conservator for the attorney if the bar establishes by affidavit or by verified petition that immediate and irreparable injury, loss or damage will result to a client of the attorney, an employee of the attorney or other person if the temporary order is not entered. [1997 c.135 §2]
+ 
+      9.725 Appointment of custodians of law practice; duties of custodian and court. (1) If the court assumes jurisdiction under ORS 9.705 to 9.755, it shall appoint one or more attorneys who are members in good standing of the Oregon State Bar to act as custodian of the law practice of the affected attorney. Immediately upon appointment, such custodian shall take possession and control of all property comprising the law practice of the affected attorney. The court may order any custodian appointed under ORS 9.705 to 9.755 to do one or more of the following:
+      (a) Examine the files and records of the law practice and obtain information as to any pending matters which may require attention;
